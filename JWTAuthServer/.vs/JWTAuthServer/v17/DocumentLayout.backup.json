@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\jwtauthserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\jwtauthserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\jwtauthserver.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\jwtauthserver.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\jwtauthserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\jwtauthserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\dtos\\uploadprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\uploadprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\controllers\\jwkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\controllers\\jwkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\services\\keyrotationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\services\\keyrotationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\models\\signingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\models\\signingkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\demoapp\\authenticaction\\jwtauthserver\\jwtauthserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\ProfileDTO.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\ProfileDTO.cs",
+              "RelativeToolTip": "JWTAuthServer\\DTOs\\ProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:55:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "JWTAuthServer\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:56:19.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "JWTAuthServer\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:54:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UploadProfileDTO.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\UploadProfileDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\UploadProfileDTO.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\DTOs\\UploadProfileDTO.cs",
+              "RelativeToolTip": "JWTAuthServer\\DTOs\\UploadProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:55:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthServer\\appsettings.json",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\appsettings.json*",
+              "RelativeToolTip": "JWTAuthServer\\appsettings.json*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T03:32:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTAuthServer.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "JWTAuthServer\\JWTAuthServer.csproj.Backup.tmp",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj.Backup.tmp",
+              "RelativeToolTip": "JWTAuthServer\\JWTAuthServer.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T09:39:46.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JWTAuthServer.http",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.http",
+              "RelativeDocumentMoniker": "JWTAuthServer\\JWTAuthServer.http",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.http",
+              "RelativeToolTip": "JWTAuthServer\\JWTAuthServer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-09T03:53:10.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\User.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\User.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:42:47.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JWTAuthServer\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:38:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuthServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwHUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:40:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWTAuthServer.csproj",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
+              "RelativeDocumentMoniker": "JWTAuthServer\\JWTAuthServer.csproj",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
+              "RelativeToolTip": "JWTAuthServer\\JWTAuthServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T08:19:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWKSController.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\JWKSController.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Controllers\\JWKSController.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Controllers\\JWKSController.cs",
+              "RelativeToolTip": "JWTAuthServer\\Controllers\\JWKSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T03:18:54.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Program.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Program.cs",
+              "RelativeToolTip": "JWTAuthServer\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:57:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KeyRotationService.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Services\\KeyRotationService.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Services\\KeyRotationService.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Services\\KeyRotationService.cs",
+              "RelativeToolTip": "JWTAuthServer\\Services\\KeyRotationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:15:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:57:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\WeatherForecast.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\WeatherForecast.cs",
+              "RelativeToolTip": "JWTAuthServer\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:57:17.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SigningKey.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\SigningKey.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\SigningKey.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\SigningKey.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\SigningKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:45:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\UserRole.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\UserRole.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:44:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\Client.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\Client.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:43:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\Role.cs",
+              "ToolTip": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\Models\\Role.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:41:48.243Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
