@@ -36,6 +36,37 @@
         }
       }
     },
+    "/api/Auth/RefreshToken": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RefreshTokenRequestDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RefreshTokenRequestDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RefreshTokenRequestDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Book/GetBooks": {
       "get": {
         "tags": [
@@ -154,6 +185,24 @@
           "Password": {
             "maxLength": 100,
             "minLength": 6,
+            "type": "string"
+          },
+          "ClientId": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RefreshTokenRequestDTO": {
+        "required": [
+          "ClientId",
+          "RefreshToken"
+        ],
+        "type": "object",
+        "properties": {
+          "RefreshToken": {
+            "minLength": 1,
             "type": "string"
           },
           "ClientId": {

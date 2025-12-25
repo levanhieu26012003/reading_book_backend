@@ -294,3 +294,4 @@ D:\reading_book_backend\JWTAuthServer\JWTAuthServer\obj\Debug\net8.0\refint\JWTA
 D:\reading_book_backend\JWTAuthServer\JWTAuthServer\obj\Debug\net8.0\JWTAuthServer.pdb
 D:\reading_book_backend\JWTAuthServer\JWTAuthServer\obj\Debug\net8.0\JWTAuthServer.genruntimeconfig.cache
 D:\reading_book_backend\JWTAuthServer\JWTAuthServer\obj\Debug\net8.0\ref\JWTAuthServer.dll
+D:\reading_book_backend\JWTAuthServer\JWTAuthServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

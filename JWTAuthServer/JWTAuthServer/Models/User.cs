@@ -19,5 +19,8 @@ namespace JWTAuthServer.Models
         public string Password { get; set; }
 
         public ICollection<UserRole> UserRoles { get; set; } // Navigation property for many-to-many relationship with Role
+
+        // Navigation property for refresh tokens
+        public ICollection<RefreshToken> RefreshTokens { get; set; }
     }
 }
