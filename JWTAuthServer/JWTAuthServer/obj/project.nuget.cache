@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDgveBSl7Aw=",
+  "dgSpecHash": "dEe+yhlGB10=",
   "success": true,
-  "projectFilePath": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
+  "projectFilePath": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\levan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

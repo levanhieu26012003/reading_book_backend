@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj": {}
+    "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj": {}
   },
   "projects": {
-    "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj": {
+    "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
+        "projectUniqueName": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
         "projectName": "JWTAuthServer",
-        "projectPath": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
+        "projectPath": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.csproj",
         "packagesPath": "C:\\Users\\levan\\.nuget\\packages\\",
-        "outputPath": "D:\\DemoApp\\Authenticaction\\JWTAuthServer\\JWTAuthServer\\obj\\",
+        "outputPath": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

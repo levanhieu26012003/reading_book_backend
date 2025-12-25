@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JWTAuthServer\\Controllers"
   ],
   "SelectedNode": "\\JWTAuthServer.sln",
   "PreviewInSolutionExplorer": false
