@@ -27,6 +27,22 @@
   },
   {
     "ContainingType": "JWTAuthServer.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "JWTAuthServer.DTOs.LogoutRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthServer.Controllers.AuthController",
     "Method": "RefreshToken",
     "RelativePath": "api/Auth/RefreshToken",
     "HttpMethod": "POST",

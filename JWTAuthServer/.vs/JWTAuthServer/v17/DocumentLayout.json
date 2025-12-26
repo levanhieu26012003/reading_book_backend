@@ -7,6 +7,13 @@
       "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\dtos\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\logoutrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/reading_book/True/SqlTable/dbo.RefreshTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\dtos\\refreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\dtos\\refreshtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +57,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogoutRequestDTO.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\DTOs\\LogoutRequestDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\LogoutRequestDTO.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\DTOs\\LogoutRequestDTO.cs",
+              "RelativeToolTip": "JWTAuthServer\\DTOs\\LogoutRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:26:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.RefreshTokens [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/reading_book/True/SqlTable/dbo.RefreshTokens.sql",
+              "ToolTip": "dbo.RefreshTokens [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-26T02:03:50.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
               "RelativeToolTip": "JWTAuthServer\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAswAkBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswLcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T12:56:12.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RefreshTokenResponse.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\DTOs\\RefreshTokenResponse.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\RefreshTokenResponse.cs",
@@ -71,12 +101,11 @@
               "RelativeToolTip": "JWTAuthServer\\DTOs\\RefreshTokenResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:54:27.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:54:27.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RefreshTokenRequestDTO.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\DTOs\\RefreshTokenRequestDTO.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\DTOs\\RefreshTokenRequestDTO.cs",
@@ -84,12 +113,11 @@
               "RelativeToolTip": "JWTAuthServer\\DTOs\\RefreshTokenRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:53:23.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:53:23.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\Client.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Models\\Client.cs",
@@ -97,12 +125,11 @@
               "RelativeToolTip": "JWTAuthServer\\Models\\Client.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwBgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:46:06.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:46:06.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Models\\UserRole.cs",
@@ -110,12 +137,11 @@
               "RelativeToolTip": "JWTAuthServer\\Models\\UserRole.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:45:31.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:45:31.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\User.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Models\\User.cs",
@@ -123,12 +149,11 @@
               "RelativeToolTip": "JWTAuthServer\\Models\\User.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:45:26.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:45:26.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
@@ -136,8 +161,7 @@
               "RelativeToolTip": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAcwHcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:44:45.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:44:45.26Z"
             }
           ]
         },
