@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using ResourceServer.Data;
 
 namespace ResourceServer
 {
@@ -41,7 +44,25 @@ namespace ResourceServer
                 };
             });
 
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+              options.UseSqlServer(builder.Configuration.GetConnectionString("EFCoreDBConnection")));
+
+            builder.Services.AddAuthorization(options =>
+            {
+                // Policy for User role (accessible by User, Editor, Admin)
+                options.AddPolicy("UserPolicy", policy =>
+                    policy.RequireRole("User", "Editor", "Admin"));
+                // Policy for Editor role (accessible by Editor, Admin)
+                options.AddPolicy("EditorPolicy", policy =>
+                    policy.RequireRole("Editor", "Admin"));
+                // Policy for Admin role (accessible by Admin only)
+                options.AddPolicy("AdminPolicy", policy =>
+                    policy.RequireRole("Admin"));
+            });
+
             var app = builder.Build();
+
+           
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

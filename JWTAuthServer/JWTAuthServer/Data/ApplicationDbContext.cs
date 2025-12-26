@@ -68,36 +68,6 @@ namespace JWTAuthServer.Data
                     ClientURL = "https://reading_web.com"
                 }
             );
-
-            modelBuilder.Entity<User>().HasData(
-                new User
-                {
-                    Id = 1,
-                    Email = "h1@gmail.com",
-                    FullName = "Hiếu Lê",
-                    Password = "123123",
-                }
-            );
-
-            modelBuilder.Entity<Setting>().HasData(
-               new Setting
-               {
-                   Id = 1,
-                   Color = "Red",
-                   FontSize = 13,
-                   UserId = 1,
-               }
-           );
-            modelBuilder.Entity<Book>().HasData(
-                new Book
-                {
-                    Id = 1,
-                    UserId = 1,
-                    Author = "Thích Nhất Hạnh",
-                    Title = "An Bình Trên Từng Bước Chân",
-                    ImageUrl = "https://image.com",
-                    Url = "https://url.com",
-                });
         }
 
         // DbSet representing the Users table.
@@ -114,9 +84,7 @@ namespace JWTAuthServer.Data
 
         // DbSet representing the SigningKeys table.
         public DbSet<SigningKey> SigningKeys { get; set; }
-        public DbSet<Book> Books { get; set; }
-        public DbSet<Setting> Setting { get; set; }
-        // DbSet representing the RefreshTokens table.
+        
         public DbSet<RefreshToken> RefreshTokens { get; set; }
     }
 }

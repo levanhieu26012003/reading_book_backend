@@ -98,18 +98,6 @@
         }
       }
     },
-    "/api/Book/GetBooks": {
-      "get": {
-        "tags": [
-          "Book"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/.well-known/jwks.json": {
       "get": {
         "tags": [

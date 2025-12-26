@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace JWTAuthServer.DTOs
+﻿namespace ResourceServer.DTOs
 {
     public class BookDTO
     {

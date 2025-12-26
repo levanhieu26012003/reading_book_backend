@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace JWTAuthServer.Models
+namespace ResourceServer.Models
 {
     public class Book
     {
@@ -15,9 +15,6 @@ namespace JWTAuthServer.Models
         [Required]
         public string ImageUrl { get; set; }
         [Required]
-
         public int UserId { get; set; }
-        [Required]
-        public User User { get; set; }
     }
 }
