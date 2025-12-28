@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\reading_book_backend\\JWTAuthServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\jwtauthserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\jwtauthserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|d:\\reading_book_backend\\jwtauthserver\\jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36439C48-A5E7-45DE-866D-5EE3CC9FDEB6}|JWTAuthServer\\JWTAuthServer.csproj|solutionrelative:jwtauthserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|d:\\reading_book_backend\\jwtauthserver\\resourceserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03DC446C-BE9B-43B8-9E3E-BD0CC2D030A4}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,85 +78,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ResourceServer\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ResourceServer\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Program.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Program.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Program.cs",
+              "RelativeToolTip": "ResourceServer\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T07:50:21.426Z",
+              "WhenOpened": "2025-12-26T04:10:21.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Program.cs",
-              "RelativeDocumentMoniker": "JWTAuthServer\\Program.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Program.cs",
-              "RelativeToolTip": "JWTAuthServer\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\DTOs\\BookDTO.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "ResourceServer\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T07:49:29.881Z",
+              "WhenOpened": "2025-12-28T02:50:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ResourceServer\\appsettings.json",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\appsettings.json",
+              "RelativeToolTip": "ResourceServer\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T03:56:08.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "ResourceServer\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Controllers\\BookController.cs",
-              "RelativeToolTip": "ResourceServer\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBgAAAAzAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuthServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T07:47:36.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T01:28:08.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Setting.cs",
-              "RelativeDocumentMoniker": "ResourceServer\\Models\\Setting.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Setting.cs",
-              "RelativeToolTip": "ResourceServer\\Models\\Setting.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T04:24:12.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\Setting.cs",
-              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\Setting.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\Setting.cs",
-              "RelativeToolTip": "JWTAuthServer\\Models\\Setting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T04:23:57.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "ResourceServer\\Models\\Book.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Book.cs",
-              "RelativeToolTip": "ResourceServer\\Models\\Book.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T04:14:25.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
@@ -156,25 +136,11 @@
               "RelativeToolTip": "JWTAuthServer\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T04:12:01.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T04:12:01.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Program.cs",
-              "RelativeDocumentMoniker": "ResourceServer\\Program.cs",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Program.cs",
-              "RelativeToolTip": "ResourceServer\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAnwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T04:10:21.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "JWTAuthServer.http",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\JWTAuthServer.http",
               "RelativeDocumentMoniker": "JWTAuthServer\\JWTAuthServer.http",
@@ -182,12 +148,11 @@
               "RelativeToolTip": "JWTAuthServer\\JWTAuthServer.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-26T04:10:10.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T04:10:10.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ResourceServer.http",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\ResourceServer.http",
               "RelativeDocumentMoniker": "ResourceServer\\ResourceServer.http",
@@ -195,34 +160,91 @@
               "RelativeToolTip": "ResourceServer\\ResourceServer.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-26T04:09:55.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T04:09:55.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\appsettings.json",
               "RelativeDocumentMoniker": "JWTAuthServer\\appsettings.json",
               "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\appsettings.json",
               "RelativeToolTip": "JWTAuthServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-26T04:05:31.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T04:05:31.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\appsettings.json",
-              "RelativeDocumentMoniker": "ResourceServer\\appsettings.json",
-              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\appsettings.json",
-              "RelativeToolTip": "ResourceServer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-26T03:56:08.146Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Models\\Book.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Book.cs",
+              "RelativeToolTip": "ResourceServer\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:14:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Models\\Setting.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Models\\Setting.cs",
+              "RelativeToolTip": "JWTAuthServer\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:23:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Models\\Setting.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Models\\Setting.cs",
+              "RelativeToolTip": "ResourceServer\\Models\\Setting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:24:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ResourceServer\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:47:36.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthServer\\Program.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\JWTAuthServer\\Program.cs",
+              "RelativeToolTip": "JWTAuthServer\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:49:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\reading_book_backend\\JWTAuthServer\\ResourceServer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ResourceServer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:50:21.426Z"
             }
           ]
         },

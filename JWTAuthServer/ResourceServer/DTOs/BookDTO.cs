@@ -1,4 +1,4 @@
-﻿namespace ResourceServer.DTOs
+﻿    namespace ResourceServer.DTOs
 {
     public class BookDTO
     {
