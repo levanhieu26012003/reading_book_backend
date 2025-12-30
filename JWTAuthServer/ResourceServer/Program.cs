@@ -21,11 +21,8 @@ namespace ResourceServer
 
             builder.Services.AddSingleton<IAmazonS3>(sp =>
             {
-                var accessKey = builder.Configuration["AWS:AccessKey"];
-                var secretKey = builder.Configuration["AWS:SecretKey"];
-                var regionName = builder.Configuration["AWS:Region"];
-                var region = RegionEndpoint.GetBySystemName(regionName);
-                return new AmazonS3Client(accessKey, secretKey, region);
+      
+                return new AmazonS3Client();
             });
 
 
