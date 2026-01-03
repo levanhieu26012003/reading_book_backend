@@ -11,10 +11,11 @@ namespace ResourceServer.Models
         [Required]
         public string Author { get; set; }
         [Required]
-        public string Url { get; set; }
+        public string FileKey { get; set; }
         [Required]
-        public string ImageUrl { get; set; }
+        public string CoverKey { get; set; }
         [Required]
         public int UserId { get; set; }
+        public DateTime UploadedAt { get; set; }
     }
 }
