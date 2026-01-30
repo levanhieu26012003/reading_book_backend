@@ -1,6 +1,4 @@
-# Rental House Website
-
-### A powerful map-based search feature allowing users to find rental houses by region.
+# Reading Book App
 
 ##  Overview
 
@@ -8,7 +6,7 @@ This project include two platforms is web and mobile which allow them upload fil
  
 ##  Tech Stack
 
-Frontend: Flutter
+Frontend: Flutter, ReactJS
 
 Backend: .NET
 
